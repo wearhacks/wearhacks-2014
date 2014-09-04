@@ -1,4 +1,4 @@
-wearhacks-2014
+WearHacks 2014
 ==============
 
 Repo for WearHacks 2014
